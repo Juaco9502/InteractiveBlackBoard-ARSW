@@ -25,7 +25,7 @@ If you want to view the documentation of the application, execute the following 
 mvn javadoc:javadoc
 ```
 
-Or
+Option 2:
 
 ```
 java -jar target/InteractiveBlackBoard-1.0-SNAPSHOT.jar
@@ -45,31 +45,36 @@ mvn spring-boot:run
 ```
 http://localhost:8080
 ```
-![Home](img/img1.PNG)
+![Home](img/1.PNG)
 
 ## LOGIN
 ```
 http://localhost:8080/login
 ```
-![Login](img/img2.PNG)
+![Login](img/2.PNG)
 
+## BB2 (Board)
 ```
 http://localhost:8080/bb2.html
 ```
-![Bb2](img/img3.PNG)
+![Bb2](img/3.PNG)
 
-## HELLO (Log off)
+## HELLO (Log Off)
 ```
 http://localhost:8080/hello
 ```
-![Hello](img/img4.PNG)
+![Hello](img/4.PNG)
 
 ### DIAGRAM
 
 ![Diagram](img/diagram.PNG)
 
 ## HEROKU
-[Link]()
+[HOME](https://interactive-black-board-arsw.herokuapp.com/)https://interactive-black-board-arsw.herokuapp.com/
+[LOGIN](https://interactive-black-board-arsw.herokuapp.com/login)https://interactive-black-board-arsw.herokuapp.com/login
+[BOARD](https://interactive-black-board-arsw.herokuapp.com/bb2.html)https://interactive-black-board-arsw.herokuapp.com/bb2.html
+[LOG OFF](https://interactive-black-board-arsw.herokuapp.com/hello)https://interactive-black-board-arsw.herokuapp.com/hello
+
 
 
 ## PRE-REQUISITES
