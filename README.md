@@ -70,10 +70,10 @@ http://localhost:8080/hello
 ![Diagram](img/diagram.PNG)
 
 ## HEROKU
-* [HOME](https://interactive-black-board-arsw.herokuapp.com/)https://interactive-black-board-arsw.herokuapp.com/
-* [LOGIN](https://interactive-black-board-arsw.herokuapp.com/login)https://interactive-black-board-arsw.herokuapp.com/login
-* [BOARD](https://interactive-black-board-arsw.herokuapp.com/bb2.html)https://interactive-black-board-arsw.herokuapp.com/bb2.html
-* [LOG OFF](https://interactive-black-board-arsw.herokuapp.com/hello)https://interactive-black-board-arsw.herokuapp.com/hello
+* [HOME] (https://interactive-black-board-arsw.herokuapp.com/)https://interactive-black-board-arsw.herokuapp.com/
+* [LOGIN] (https://interactive-black-board-arsw.herokuapp.com/login)https://interactive-black-board-arsw.herokuapp.com/login
+* [BOARD] (https://interactive-black-board-arsw.herokuapp.com/bb2.html)https://interactive-black-board-arsw.herokuapp.com/bb2.html
+* [LOG OFF] (https://interactive-black-board-arsw.herokuapp.com/hello)https://interactive-black-board-arsw.herokuapp.com/hello
 
 
 
